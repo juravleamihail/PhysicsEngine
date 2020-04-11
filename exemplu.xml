@@ -1,0 +1,28 @@
+<vertices>
+	<vertex id="55" name="vertex">
+		<pos name="pos">
+			<pos.x info="pos.x">2</pos.x>
+			<pos.y info="pos.y">3</pos.y>
+			<pos.z info="pos.z">4</pos.z>
+		</pos>
+		<norm name="norm">
+			<norm.x info="norm.x">2</norm.x>
+			<norm.y info="norm.y">3</norm.y>
+			<norm.z info="norm.z">4</norm.z>
+		</norm>
+		<binorm name="binorm">
+			<binorm.x info="binorm.x">2</binorm.x>
+			<binorm.y info="binorm.y">3</binorm.y>
+			<binorm.z info="binorm.z">4</binorm.z>
+		</binorm>
+		<tgt name="tgt">
+			<tgt.x info="tgt.x">2</tgt.x>
+			<tgt.y info="tgt.y">3</tgt.y>
+			<tgt.z info="tgt.z">4</tgt.z>
+		</tgt>
+		<uv name="uv">
+			<uv.x info="uv.x">2</uv.x>
+			<uv.y info="uv.y">3</uv.y>
+		</uv>
+	</vertex>
+</vertices>
