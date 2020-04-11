@@ -27,3 +27,4 @@ NewTrainingFramework/Debug-ATI/
 NewTrainingFramework/Debug-Nvidia/
 NewTrainingFramework/Release-Nvidia/
 *.tlog
+*.db
