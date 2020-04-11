@@ -28,3 +28,6 @@ NewTrainingFramework/Debug-Nvidia/
 NewTrainingFramework/Release-Nvidia/
 *.tlog
 *.db
+Utilities/Debug-Nvidia/Utilities.tlog/Lib-link.write.1.tlog
+NewTrainingFramework/Debug-Nvidia/NewTrain.FC024EC8.tlog/link.write.1.tlog
+.vs/NewTrainingFramework/v16/Browse.VC.db
