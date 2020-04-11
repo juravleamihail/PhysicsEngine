@@ -21,3 +21,8 @@ Release
 *.vbproj.user
 ipch
 *sdf
+.vs/
+NewTrainingFramework/Debug/
+NewTrainingFramework/Debug-ATI/
+NewTrainingFramework/Debug-Nvidia/
+NewTrainingFramework/Release-Nvidia/
